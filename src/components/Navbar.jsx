@@ -3,7 +3,7 @@ import { Link } from "react-scroll";
 
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-md fixed-top navbar-inverse navbar-light">
+    <nav className="navbar navbar-expand-md fixed-top">
       <div className="container">
         <button
           className="navbar-toggler"
